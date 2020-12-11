@@ -13,3 +13,4 @@ This section shows you nifty extensions that allow you to add Babylon.js to Word
 ![Wordpress](https://s.w.org/style/images/about/WordPress-logotype-simplified.png)
 
 
+##Babylon.js and Wordpress 
