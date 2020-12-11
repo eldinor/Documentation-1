@@ -15,7 +15,7 @@ This section shows you nifty extensions that allow you to add Babylon.js to Word
 
 # Babylon.js and Wordpress 
 
-Currently there are 2 implementations of Babylon.js into Wordpress: **Babylon Viewer 3D Wordpress** plugin and **BabylonPress 3D Wordpress** plugin. One of the main task of these plugins – to make the web publishing of a 3D content much more easier than ever before.
+Currently there are 2 community implementations of Babylon.js into Wordpress: **Babylon Viewer 3D Wordpress** plugin and **BabylonPress 3D Wordpress** plugin. One of the main task of these plugins – to make the web publishing of a 3D content much more easier than ever before.
 
 Babylon Viewer 3D Wordpress plugin is based on Babylon Viewer extension. It is intended mainly for simple cases like 3D model demonstration with the help of the shortcode. You will find more detailed info about Babylon Viewer 3D Wordpress plugin in its section below or [just download it from GitHub](https://github.com/eldinor/babylon-wordpress-plugin "download  from GitHub") with included readme.md file.
 
